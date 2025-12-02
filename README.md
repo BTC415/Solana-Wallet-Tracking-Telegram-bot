@@ -241,11 +241,3 @@ Remember to regularly monitor your API usage and maintain your database to ensur
 ## License
 This project is licensed under the [MIT License](./LICENSE).
 
-## Contact Information
-
-- Gmail: [marksantiago0929@gmail.com](mailto:marksantiago0929@gmail.com)
-- GitHub: [MARK](https://github.com/BTC415)
-- LinkedIn: [Mark Santiago](https://www.linkedin.com/in/mark-santiago-373172339/)
-- Telegram: [@marksantiago02](https://t.me/marksantiago02)
-- Twitter: [@MarkSantiago02](https://twitter.com/MarkSantiago02)
-
